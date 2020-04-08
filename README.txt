@@ -1,0 +1,1 @@
+This tutorial tracks my progress with Dennis Ivy's Django YouTube tutorial.
